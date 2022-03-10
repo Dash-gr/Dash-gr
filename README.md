@@ -1,3 +1,7 @@
+# Welcome To My GitHub Profile!
+### My Website: https://dash-gr.github.io/
+### My Scratch Profile: https://scratch.mit.edu/users/-gr/
+
 - 👋 Hi, I’m @Dash-gr
 - 👀 I’m interested in anything related to Scratch of the Scratch Website, HTML and Python
 - 🌱 I’m currently learning Python, HTML, CSS
